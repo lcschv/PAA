@@ -12,4 +12,3 @@ Para execução:
   
   
 Segue também a documentação do trabalho.
-
