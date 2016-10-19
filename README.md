@@ -1,4 +1,4 @@
-# Projeto e análise de algoritmos
+# Projeto e Análise de Algoritmos
 
 Trabalhos práticos da disciplina de Projeto e Análise de Algoritmos ministrada para Pós-graduação da UFMG.
 Aqui se encontra todas implementações da disciplina de PAA do semestre 2016/2.
@@ -11,7 +11,7 @@ Primeiro trabalho consiste em 3 problemas de modelagem de grafos. Foram implemen
   2 - FordFulkerson para fluxo máximo.
 
 Para execução:
-  ** make && ./tp1-problemaXXXX(escolha número do problema) ambiente.txt(arquivo de entrada)**
+  make && ./tp1-problemaXXXX(escolha número do problema) ambiente.txt(arquivo de entrada)
   
   
 Segue também a documentação do trabalho.
