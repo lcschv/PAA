@@ -1,0 +1,17 @@
+Olá! Tudo bem?
+
+Para a execução dos algoritmos deve-se levar em consideção o seguinte:
+
+Problema 1 - Comando de execução da seguinte maneira:
+	1º Realiza-se o make
+	ou	
+	2º make && ./tp1-problema1 1ambiente.txt
+	Nao funciona para ambientes 2 e 5
+Problema 3 - Comando de execução da seguinte maneira:
+	1º Realiza-se o make
+	ou	
+	2º make && ./tp1-problema3 3ambiente.txt
+
+O problema 2 encontra-se com erros, (necessitava do problema 1 funcionando 100%, o que nao ocorreu) por isso não enviei :( 
+No entanto, escrevi como desenvolveria e qual seria a complexidade do problema. Fiquei agarrado no 1 e acabei nao terminando.
+

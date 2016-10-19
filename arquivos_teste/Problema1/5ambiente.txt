@@ -1,0 +1,5 @@
++   +   +   x3  +   +   +   
+o   o   o   +   o   o   o   
+x0  x1  x2  +   g0  g1  g2  
+o   o   o   +   o   o   o   
++   +   +   g3  +   +   + 

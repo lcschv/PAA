@@ -1,0 +1,6 @@
+o   +   o   o   o   g2  
+o   o   g3  o   g1  o   
+o   o   o   g0  o   o   
+o   o   x2  o   x3  o   
+o   x1  o   o   o   o   
+x0  o   o   o   o   o   
